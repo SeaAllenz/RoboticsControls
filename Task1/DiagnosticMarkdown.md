@@ -2,7 +2,7 @@
 
 **Report: Title** Delay in rotate_joint for RBA- 2201  
 **Name** Sean Allen – Robotics and Controls Engineer Intern  
-**Date** 5/1/  
+**Date** 5/1/26  
 **Ticket ID** #2437
 
 ---
@@ -65,7 +65,7 @@ command along with syntax errors and inefficient time complexity.
 
 **Response Time Data:**
 
-| Command--| Expected Response Time-- | Initial Response Time--| Optimized Response Time |
+| Command| Expected Response Time | Initial Response Time| Optimized Response Time |
 |---------------|------------------------|------------------------|--------------------------|
 | move_arm  | 0.10 seconds           | 0.1001 seconds         | 0.1001 seconds           |
 | rotate_joint | 0.10 seconds           | 0.15 seconds           | 0.9 seconds              |
