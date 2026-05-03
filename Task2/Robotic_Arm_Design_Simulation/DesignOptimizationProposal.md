@@ -46,7 +46,7 @@ sensor's ability to maintain surgical precision over long periods of time.
 
 **Modification 2** :
 
-- **Proposal** : [Describe the modification]
+- **Proposal** : 
 
 
 ```
@@ -80,28 +80,31 @@ o Sensor Feedback Delay: 60/100
        single run.
 **4. Annotated Visual Examples**
 
-**Visual Example 1: Current Sensor Misalignment vs. Proposed Realignment**
-
-
+**Visual Example 1: Current Sensor Misalignment vs. Proposed Realignment** [Image1]
 - _Brief Description_ : The two green lines not being on top of each other represent
     the misalignment in the sensors.
-**Visual Example 2: Actuator Upgrade Impact**
+  
+**Visual Example 2: Actuator Upgrade Impact** [Image2]
 - _Brief Description_ : The actuators are placed within the joins of the arm and can
 potentially tear or wear down over time due to frequent use.
+
 **5. Expected Outcomes**
 1. **Improved Responsiveness** :
 Providing stronger material to the actuators along with more accurate information
 from sensors improves responsiveness from the processing unit by giving it
 better data with less room for error.
-2. **Enhanced Reliability** :
+
+3. **Enhanced Reliability** :
 Providing consistently accurate information from sensors allows the processing
 unit to deal with fewer edge cases or potentially deal with errors. Improving the
 strength and durability of the actuator's lengths at the time an arm can be used
 without repair.
-3. **Increased Durability** :
+
+5. **Increased Durability** :
 Providing stronger but lightweight materials that don’t sacrifice precision will
 greatly improve the durability of the actuators by putting less stress on the
 actuator and arm.
+
 **6. Conclusion**
 Summarize the impact of your proposed modifications:
 The proposed modifications will directly impact both key components it seeks to
