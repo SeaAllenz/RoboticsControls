@@ -1,9 +1,9 @@
 # Diagnostic Report
 
-**Report: Title** Delay in rotate_joint for RBA- 2201  
-**Name** Sean Allen – Robotics and Controls Engineer Intern  
-**Date** 5/1/26  
-**Ticket ID** #2437
+**Report Title:** Delay in rotate_joint for RBA- 2201  
+**Name:** Sean Allen – Robotics and Controls Engineer Intern  
+**Date:** 5/1/26  
+**Ticket ID:** #2437
 
 ---
 
