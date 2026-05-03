@@ -12,7 +12,6 @@
 - Entry level Engineering
 - Software Engineering
 - Hardware Engineering
-- Python
 
 ---
 
